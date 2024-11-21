@@ -21,3 +21,8 @@ body {
     margin: 30px;
 
 }
+
+ul {
+    list-style-type: none; /* Remove os marcadores */
+    padding: 0; /* Remove o preenchimento padrão */
+}
