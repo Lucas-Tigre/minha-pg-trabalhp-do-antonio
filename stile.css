@@ -19,11 +19,13 @@ body {
     align-items: start;
     display: flex;
     margin: 30px;
+    justify-items: flex-start;
+    flex-direction: column;
 
 }
 
 ul {
     list-style-type: none; /* Remove os marcadores */
-    padding: 0; /* Remove o preenchimento padrão */
-    margin: 0; /* Remove a margem padrão */
+    padding: 0; 
+    margin: 0;    
 }
