@@ -19,7 +19,6 @@ body {
     align-items: start;
     display: flex;
     margin: 30px;
-    justify-items: flex-start;
     flex-direction: column;
 
 }
