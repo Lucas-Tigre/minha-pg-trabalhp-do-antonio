@@ -31,10 +31,10 @@ ul {
     margin: 0;    
 }
 
-.maior {
-    font-size: 2em; /* Tamanho da fonte maior */
+.H3 {
+    margin-bottom: 10px; /* Adiciona um espaço abaixo do h3 */
 }
 
-.menor {
-    font-size: 1em; /* Tamanho da fonte menor */
+.Titulo {
+    margin-top: 0; /* Remove o espaço acima do h1, se houver */
 }
