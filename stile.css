@@ -149,3 +149,16 @@ nav{
     border-radius: 5px;
     font-size: 16px; 
 }
+
+/* Estilo da mensagem */
+#message {
+    margin-top: 15px; 
+    font-size: 14px; 
+    color: #333; 
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+
+#emailForm input[type="submit"]:hover {
+    background-color: #1ab5b5;
+}
