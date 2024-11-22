@@ -162,3 +162,13 @@ nav{
 #emailForm input[type="submit"]:hover {
     background-color: #1ab5b5;
 }
+
+.rodape{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2B3970;
+    padding: 10px 20px;
+    
+}
