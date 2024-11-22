@@ -63,7 +63,7 @@ nav{
 
 .Caixadt2{
 
-    align-items: start;
+    align-items: end;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
     padding: 50px; /* Espaço interno */
     margin: 100px; /* Espaço externo */
