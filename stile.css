@@ -94,7 +94,7 @@ nav{
 
 .JHC{
 
-    flex-direction: column;
+    flex-direction: row;
     align-items: start;
     border: 2px solid #D8DBBD; 
     padding: 50px; 
