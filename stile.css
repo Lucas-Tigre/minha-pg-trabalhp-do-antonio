@@ -177,7 +177,23 @@ nav{
     
         position: fixed;
         right: 0;
-        top: 15%;
+        top: 85%;
         width: 8em;
     
+}
+
+.h2{
+
+    display: flex; 
+    justify-content: end; 
+    align-items: end; 
+    font-size: 100px;
+}
+
+.p2{
+
+    display: flex; 
+    justify-content: center; 
+    align-items: end;
+    font-size: 7px; 
 }
