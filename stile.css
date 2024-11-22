@@ -91,3 +91,16 @@ nav{
     font-size: 14px;
     color: #FAF6E3;
 }
+
+.JHC{
+
+    align-items: start;
+    border: 2px solid #D8DBBD; 
+    padding: 50px; 
+    margin: 50px; 
+    border-radius: 20px; 
+    background-color: #D8DBBD; 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+    height: 600px; 
+}
+
