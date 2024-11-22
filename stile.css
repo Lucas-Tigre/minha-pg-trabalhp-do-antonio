@@ -53,6 +53,7 @@ nav{
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
+    height: 100px;
 }
 
 .ct1{
@@ -73,6 +74,23 @@ nav{
 }
 
 .ct2{
+
+    color: #FAF6E3;
+}
+
+.Caixadt3{
+
+    align-items: start;
+    border: 2px solid #B59F78; /* Cor e espessura da borda */
+    padding: 50px; /* Espaço interno */
+    margin: 100px; /* Espaço externo */
+    border-radius: 20px; /* Bordas arredondadas */
+    background-color: #B59F78; /* Cor de fundo */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
+    height: 300px;
+}
+
+.ct3{
 
     color: #FAF6E3;
 }
