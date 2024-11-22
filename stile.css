@@ -49,8 +49,8 @@ nav{
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
     padding: 50px; /* Espaço interno */
-    margin: 20px; /* Espaço externo */
-    border-radius: 10px; /* Bordas arredondadas */
+    margin: 50px; /* Espaço externo */
+    border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
 }
