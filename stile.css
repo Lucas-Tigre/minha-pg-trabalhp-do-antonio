@@ -46,8 +46,9 @@ nav{
 
 .Caixadt1{
 
+    align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 20px; /* Espaço interno */
+    padding: 50px; /* Espaço interno */
     margin: 20px; /* Espaço externo */
     border-radius: 10px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
