@@ -68,6 +68,12 @@ nav{
     height: 300px;
 }
 
+.caixasorg12{
+
+    display: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
 .Caixadt3{
 
     align-items: end;
