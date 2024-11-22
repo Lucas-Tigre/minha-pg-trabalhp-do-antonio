@@ -48,21 +48,27 @@ nav{
 
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 100px; /* Espaço interno */
+    padding: 50px; /* Espaço interno */
     margin: 100px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
-    height: 100px;
-}
-
-.ct1{
-
-    font-size: 14px;
-    color: #FAF6E3;
+    
 }
 
 .Caixadt2{
+
+    align-items: start;
+    border: 2px solid #B59F78; /* Cor e espessura da borda */
+    padding: 50px; /* Espaço interno */
+    margin: 100px; /* Espaço externo */
+    border-radius: 20px; /* Bordas arredondadas */
+    background-color: #B59F78; /* Cor de fundo */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
+    height: 300px;
+}
+
+.Caixadt3{
 
     align-items: end;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
@@ -74,14 +80,8 @@ nav{
     height: 500px;
 }
 
-.Caixadt3{
+.ct1{
 
-    align-items: start;
-    border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 50px; /* Espaço interno */
-    margin: 100px; /* Espaço externo */
-    border-radius: 20px; /* Bordas arredondadas */
-    background-color: #B59F78; /* Cor de fundo */
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
-    height: 300px;
+    font-size: 14px;
+    color: #FAF6E3;
 }
