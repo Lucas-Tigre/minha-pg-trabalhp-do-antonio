@@ -48,7 +48,7 @@ nav{
 
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 50px; /* Espaço interno */
+    padding: 100px; /* Espaço interno */
     margin: 150px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
@@ -60,7 +60,7 @@ nav{
 
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 50px; /* Espaço interno */
+    padding: 100px; /* Espaço interno */
     margin: 150px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
@@ -78,7 +78,7 @@ nav{
 
     align-items: end;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 50px; /* Espaço interno */
+    padding: 100px; /* Espaço interno */
     margin: 150px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
