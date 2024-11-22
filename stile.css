@@ -179,7 +179,7 @@ nav{
         right: 0;
         top: 95%;
         width: 8em;
-        box-shadow: #333;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); 
     
 }
 
