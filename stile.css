@@ -39,6 +39,8 @@ ul {
     margin-top: 0; 
 }
 
+/*parte dos textos*/
+
 nav{
 
     display: flex;
@@ -74,6 +76,7 @@ nav{
     flex-direction: column;
     gap: 10px;
 }
+
 .Caixadt3{
 
     align-items: end;
@@ -92,6 +95,7 @@ nav{
     color: #FAF6E3;
 }
 
+/*parte dos progamas exemplos*/
 .JHC{
 
     flex-direction: row;
@@ -102,7 +106,7 @@ nav{
     border-radius: 20px; 
     background-color: #D8DBBD; 
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
-    height: 600px; 
+    height: 400px; 
 }
 
 .CSSHTJAVA {
