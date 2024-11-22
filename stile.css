@@ -58,6 +58,7 @@ nav{
 
 .ct1{
 
+    font-size: 14px;
     color: #FAF6E3;
 }
 
@@ -73,12 +74,6 @@ nav{
     height: 500px;
 }
 
-.ct2{
-
-    height: 14px;
-    color: #FAF6E3;
-}
-
 .Caixadt3{
 
     align-items: start;
@@ -89,9 +84,4 @@ nav{
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
     height: 300px;
-}
-
-.ct3{
-
-    color: #FAF6E3;
 }
