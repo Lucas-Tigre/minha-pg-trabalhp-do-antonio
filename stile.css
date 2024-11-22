@@ -48,8 +48,8 @@ nav{
 
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 100px; /* Espaço interno */
-    margin: 150px; /* Espaço externo */
+    padding: 30px; /* Espaço interno */
+    margin: 50px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
@@ -61,11 +61,11 @@ nav{
     align-items: start;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
     padding: 50px; /* Espaço interno */
-    margin: 150px; /* Espaço externo */
+    margin: 50px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
-    height: 300px;
+    height: 400px;
 }
 
 .caixasorg12{
@@ -78,12 +78,12 @@ nav{
 
     align-items: end;
     border: 2px solid #B59F78; /* Cor e espessura da borda */
-    padding: 100px; /* Espaço interno */
-    margin: 150px; /* Espaço externo */
+    padding: 80px; /* Espaço interno */
+    margin: 50px; /* Espaço externo */
     border-radius: 20px; /* Bordas arredondadas */
     background-color: #B59F78; /* Cor de fundo */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra */
-    height: 700px;
+    height: 900px;
 }
 
 .ct1{
